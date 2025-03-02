@@ -1,4 +1,4 @@
-TY_3: Field Size Analysis in MEC Soma During VR Linear Switch Task
+TY_3: Field Size Analysis in MEC Soma During VR Linear Switch Task (each data)
 This Jupyter notebook analyzes soma data processed with Suite2p. It focuses on:
 
 Detecting transients in MEC soma activity.
